@@ -1,0 +1,13 @@
+.hidden {
+  display:none;
+}
+.centerScreen {
+text-align: center;
+margin-top:20%;
+}
+.inlineBlock {
+  display:inline-block;
+}
+.inline {
+  display:inline;
+}
